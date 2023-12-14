@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
+  "name": "Swagyo",
+  "short_name": "Swagyo",
   "description": "My blog description goes here...",
   "dir": "auto",
   "lang": "en-US",
@@ -90,9 +90,9 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
+      "name": "News",
+      "short_name": "News",
+      "description": "Here you get world wide news...",
       "url": "/search/label/my-shortcut-1?utm_source=homescreen",
       "icons": [
         {
@@ -102,9 +102,9 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
+      "name": "Shop",
+      "short_name": "Shop",
+      "description": "Here you can get branded Products...",
       "url": "/search/label/my-shortcut-2?utm_source=homescreen",
       "icons": [
         {
